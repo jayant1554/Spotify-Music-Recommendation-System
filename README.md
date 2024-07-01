@@ -1,4 +1,4 @@
-# Spotify Music Recommender
+# Spotify Music Recommender system
 
 This project is a Spotify song recommendation system built using the Spotify API. It takes user playlists and song input to suggest songs. The user can specify the number of songs they want to be recommended, and it is deployed locally using Flask.
 
@@ -12,8 +12,8 @@ This project is a Spotify song recommendation system built using the Spotify API
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jayant1554/spotify-music-recommender.git
-    cd spotify-music-recommender
+    git clone https://github.com/jayant1554/spotify-music-recommendation-system.git
+    cd spotify-music-recommendation-system
     ```
 
 2. Create and activate a virtual environment:
